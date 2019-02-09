@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'cert_check'
+
+CertCheck::CLI.start(ARGV)

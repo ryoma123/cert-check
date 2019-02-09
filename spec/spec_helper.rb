@@ -1,0 +1,1 @@
+require 'cert_check'
