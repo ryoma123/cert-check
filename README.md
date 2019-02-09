@@ -1,5 +1,8 @@
 # cert-check
 
+[![Gem Version](https://badge.fury.io/rb/cert-check.svg)](https://badge.fury.io/rb/cert-check)
+[![Build Status](https://travis-ci.org/ryoma123/cert-check.svg?branch=master)](https://travis-ci.org/ryoma123/cert-check)
+
 CLI tool for Check a certificate files and return information.
 
 ## Installation
